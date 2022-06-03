@@ -1,5 +1,5 @@
 # Lorentzian Models
-Machine learning models for Peak Finder backend.
+Machine learning models for detecting Lorentzians.
 
 ## Installing
 
